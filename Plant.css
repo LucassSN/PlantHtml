@@ -1,0 +1,29 @@
+div{
+    border:solid 0px;
+    background-color: rgb(67, 196, 100);
+    color: #00fe72;
+    font-size: 50px;
+    margin:50px;
+    
+    transform: 1s;
+}
+div.hover{
+    width: 115px;
+    transform: 1s;
+}
+html{
+    background-color: rgb(67, 196, 100);
+}
+#Busca{
+    background-color:rgb(150, 214, 150);
+    border:solid 5px #27aa62;
+    border-radius: 5%;
+    
+}
+#btn1{
+    background-color:#27aa62 ;
+    
+}
+#ImgP{
+    border: red solid 5px;
+}
